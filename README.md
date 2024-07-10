@@ -31,6 +31,8 @@ The C function demonstrates significantly faster performance compared to the pur
 
 1. **Creating the DLL using Microsoft Visual Studio:**
 
+![INPUT BENCHMARK PNG](https://github.com/benny-png/OFFLOADING-INTENSIVE-OPERATIONS-USING-C-IN-PYTHON-CTYPES-WRAPPING-/blob/main/dll_Ms_visualstudio.png)
+
    - Open Microsoft Visual Studio.
    - Create a new "Empty Project" (or any appropriate project type).
    - Add a new C file (`parser_lib.c`) containing the C code for file parsing.
