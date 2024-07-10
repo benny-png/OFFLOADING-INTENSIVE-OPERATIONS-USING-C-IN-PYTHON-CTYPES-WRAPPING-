@@ -45,6 +45,8 @@ The C function demonstrates significantly faster performance compared to the pur
 
    - The script generates a bar chart (`benchmark.png`) showing the comparative execution times of the C and Python implementations.
 
+   ![INPUT BENCHMARK PNG](https://github.com/benny-png/OFFLOADING-INTENSIVE-OPERATIONS-USING-C-IN-PYTHON-CTYPES-WRAPPING-/blob/main/benchmark2.png)
+
 #### Notes on Third-Party C Libraries
 
 - If integrating third-party C libraries (e.g., libcurl for network operations), ensure they are correctly linked with the DLL (`parser_lib.dll`).
