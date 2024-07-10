@@ -11,7 +11,7 @@ This project demonstrates how to optimize file parsing tasks by offloading them 
 
 ### Purpose
 
-The purpose of this project is to showcase the performance benefits of using C for computationally intensive tasks like file parsing, especially when dealing with large datasets.
+The purpose of this project is to showcase the performance benefits of using C for computationally intensive and memory usage tasks like file parsing, especially when dealing with large datasets, Numerical Computations and Data Processing, Algorithmic Implementations, Image and Signal Processing, Cryptography and Security, Machine Learning and AI, File and I/O Operations, Network Operations and any tested use case.
 
 ### Benchmark Results
 
