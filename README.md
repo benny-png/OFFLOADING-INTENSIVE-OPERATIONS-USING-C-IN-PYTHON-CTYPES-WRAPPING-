@@ -3,7 +3,7 @@
 
 # File Parsing (or similar Intensive I/O or computational Operations) Offloading Usecase Exploration
 
-![INPUT BENCHMARK PNG](https://github.com/benny-png/OFFLOADING-INTENSIVE-OPERATIONS-USING-C-IN-PYTHON-CTYPES-WRAPPING-/blob/main/benchmark.png)
+![INPUT BENCHMARK PNG](https://github.com/benny-png/OFFLOADING-INTENSIVE-OPERATIONS-USING-C-IN-PYTHON-CTYPES-WRAPPING-/blob/main/benchmark2.png)
 
 This project demonstrates how to optimize file parsing tasks by offloading them to C from Python using a DLL (Dynamic Link Library). It includes benchmarks comparing the performance of a C function and a pure Python implementation for parsing a large CSV file.
 
