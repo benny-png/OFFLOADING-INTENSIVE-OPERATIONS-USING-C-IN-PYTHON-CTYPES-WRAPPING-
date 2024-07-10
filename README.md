@@ -1,7 +1,7 @@
 
 ---
 
-# File Parsing (or similar Intensive I/O or computational Operations) Offloading Usecase Exploration
+# File Parsing (or similar Intensive I/O, computational Operations) Offloading Usecase Exploration
 
 ![INPUT BENCHMARK PNG](https://github.com/benny-png/OFFLOADING-INTENSIVE-OPERATIONS-USING-C-IN-PYTHON-CTYPES-WRAPPING-/blob/main/benchmark2.png)
 
